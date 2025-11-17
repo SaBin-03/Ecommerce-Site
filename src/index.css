@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+80s+Fade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* import 'remixicon/fonts/remixicon.css' */
+
+body{
+  overflow-x: hidden;
+}
+
+p{
+    color: #6a7282;
+}
+a.active p{
+    color: black;
+    border-color: black;
+}
+
+/* Font section */
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.rubik-80s-fade-regular {
+  font-family: "Rubik 80s Fade", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#slider{
+  animation: movex 25s linear infinite;
+}
+
+@keyframes movex {
+  from{
+    transform: translateX(0);
+  }
+  to{
+    transform: translateX(-100%);
+  }
+}
+
+#marqueeBox::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(to left,transparent,rgb(32, 32, 32));
+    width: 100px;
+    height: 100%;
+    z-index: 2;
+}
+#marqueeBox::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(to right,transparent,rgb(32, 32, 32));
+    width: 100px;
+    height: 100%;
+    z-index: 2;
+}
