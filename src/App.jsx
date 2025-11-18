@@ -6,6 +6,8 @@ import Mens from './pages/Mens'
 import Womens from './pages/Womens'
 import Kids from './pages/Kids'
 import NewArrival from './pages/NewArrival'
+import NewArrivalsDetails, { arrivalsLoader } from './productsDetails/NewArrivalsDetails'
+import NewArrivalsProductDetails, { newArrivalsProducDetalsLoder } from './productsDetails/NewArrivalsProductDetails'
 
 const App = () => {
 
@@ -16,7 +18,10 @@ const App = () => {
         <Route path='MensSection' element={<Mens />}/>
         <Route path='WomensSection' element={<Womens />}/>
         <Route path='KidsSection' element={<Kids />}/>
-        <Route path='NewArrivalsSection' element={<NewArrival />}/>
+        <Route path='NewArrivals' element={<NewArrival />}>
+          <Route index element={<NewArrivalsDetails />} loader={arrivalsLoader} />
+          <Route path=':id' element={<NewArrivalsProductDetails />} loader={newArrivalsProducDetalsLoder}/>
+        </Route>
       </Route>
     )
   )

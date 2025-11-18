@@ -18,7 +18,7 @@ const Navbar = () => {
           <NavLink to={"/"}>
             <img
               className="h-full w-full object-contain "
-              src="src/assets/logo.png"
+              src="/logo.png"
               alt=""
             />
           </NavLink>
@@ -26,19 +26,19 @@ const Navbar = () => {
         <div>
           <ul className="hidden md:flex justify-center items-center md:gap-5 lg:gap-10">
             <NavLink to={"/"}>
-              <p className="md:text-[13px] lg:text-[18px]">Collections</p>
+              <p className="para md:text-[13px] lg:text-[18px]">Collections</p>
             </NavLink>
             <NavLink to={"/MensSection"}>
-              <p className="md:text-[13px] lg:text-[18px]">Mens</p>
+              <p className="para md:text-[13px] lg:text-[18px]">Mens</p>
             </NavLink>
             <NavLink to={"/WomensSection"}>
-              <p className="md:text-[13px] lg:text-[18px]">Womens</p>
+              <p className="para md:text-[13px] lg:text-[18px]">Womens</p>
             </NavLink>
             <NavLink to={"/KidsSection"}>
-              <p className="md:text-[13px] lg:text-[18px]">Kids</p>
+              <p className="para md:text-[13px] lg:text-[18px]">Kids</p>
             </NavLink>
-            <NavLink to={"/NewArrivalsSection"}>
-              <p className="md:text-[13px] lg:text-[18px]">New Arrivals</p>
+            <NavLink to={"/NewArrivals"}>
+              <p className="para md:text-[13px] lg:text-[18px]">New Arrivals</p>
             </NavLink>
           </ul>
         </div>
@@ -58,19 +58,19 @@ const Navbar = () => {
       <div>
         <ul className="flex justify-center items-center md:hidden gap-3">
           <NavLink to={"/"}>
-            <p className="border-2 rounded-full px-1 text-[10px] border-gray-400">Collections</p>
+            <p className="para border-2 rounded-full px-1 text-[10px] border-gray-400">Collections</p>
           </NavLink>
           <NavLink to={"/MensSection"}>
-            <p className="border-2 rounded-full px-1 text-[10px] border-gray-400">Mens</p>
+            <p className="para border-2 rounded-full px-1 text-[10px] border-gray-400">Mens</p>
           </NavLink>
           <NavLink to={"/WomensSection"}>
-            <p className="border-2 rounded-full px-1 text-[10px] border-gray-400">Womens</p>
+            <p className="para border-2 rounded-full px-1 text-[10px] border-gray-400">Womens</p>
           </NavLink>
           <NavLink to={"/KidsSection"}>
-            <p className="border-2 rounded-full px-1 text-[10px] border-gray-400">Kids</p>
+            <p className="para border-2 rounded-full px-1 text-[10px] border-gray-400">Kids</p>
           </NavLink>
-          <NavLink to={"/NewArrivalsSection"}>
-            <p className="border-2 rounded-full px-1 text-[10px] border-gray-400">New Arrivals</p>
+          <NavLink to={"/NewArrivals"}>
+            <p className="para border-2 rounded-full px-1 text-[10px] border-gray-400">New Arrivals</p>
           </NavLink>
         </ul>
       </div>

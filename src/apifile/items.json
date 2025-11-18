@@ -1,0 +1,100 @@
+{
+  "NewArrivals": [
+    {
+      "id": 1,
+      "productName": "Classic White T-Shirt",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "price": 19.99,
+      "shortDesc": "Soft cotton white tee for everyday comfort.",
+      "longDesc": "This classic white t-shirt is crafted from premium breathable cotton, designed to offer all-day comfort and durability. Its minimal, versatile style makes it perfect for layering or wearing on its own, suitable for casual outings, gym sessions, or relaxed weekends."
+    },
+    {
+      "id": 2,
+      "productName": "Denim Jacket",
+      "img": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+      "price": 49.99,
+      "shortDesc": "Timeless denim jacket with a modern fit.",
+      "longDesc": "A signature blend of rugged style and modern tailoring, this denim jacket offers lightweight warmth and year-round versatility. The durable stitching and structured fit make it ideal for layering over tees, hoodies, and casual outfits."
+    },
+    {
+      "id": 3,
+      "productName": "Black Hoodie",
+      "img": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "price": 39.99,
+      "shortDesc": "Warm and soft pullover hoodie.",
+      "longDesc": "This sleek black hoodie features a plush interior lining that keeps you warm without feeling bulky. Designed for daily comfort, it includes ribbed cuffs, an adjustable drawstring hood, and a relaxed fit perfect for both streetwear and lounging."
+    },
+    {
+      "id": 4,
+      "productName": "Blue Jeans",
+      "img": "https://images.unsplash.com/photo-1491553895911-0055eca6402d",
+      "price": 59.99,
+      "shortDesc": "Classic blue denim jeans with stretch.",
+      "longDesc": "Crafted with a blend of cotton and flexible stretch fabric, these blue jeans offer both durability and exceptional comfort. With a flattering fit and timeless wash, they pair effortlessly with any top and suit every occasion from casual to semi-formal."
+    },
+    {
+      "id": 5,
+      "productName": "Oversized Beige Hoodie",
+      "img": "https://images.unsplash.com/photo-1523381294911-8d3cead13475",
+      "price": 44.99,
+      "shortDesc": "Cozy oversized hoodie in warm beige.",
+      "longDesc": "Designed for ultimate comfort, this oversized beige hoodie hugs you with soft fleece fabric and a relaxed silhouette. It's the perfect choice for chilly days, offering a trendy oversized style that suits both streetwear and loungewear aesthetics."
+    },
+    {
+      "id": 6,
+      "productName": "Striped Casual Shirt",
+      "img": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVuaW0lMjBqYWNrZXR8ZW58MHx8MHx8fDA%3D",
+      "price": 34.99,
+      "shortDesc": "Lightweight striped shirt for casual looks.",
+      "longDesc": "This striped casual shirt blends breathable fabric with modern styling, giving you a polished look without sacrificing comfort. Ideal for outings, workdays, or weekend plans, it delivers a refined everyday style that fits effortlessly into your wardrobe."
+    },
+    {
+      "id": 7,
+      "productName": "Brown Leather Belt",
+      "img": "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGplYW5zfGVufDB8fDB8fHww",
+      "price": 24.99,
+      "shortDesc": "Premium brown leather belt.",
+      "longDesc": "Made from high-quality genuine leather, this belt features a smooth textured finish and a sturdy metallic buckle. Perfect for jeans, chinos, and formal trousers, it enhances any outfit with timeless style and reliable durability."
+    },
+    {
+      "id": 8,
+      "productName": "Running Sneakers",
+      "img": "https://images.unsplash.com/photo-1539185441755-769473a23570",
+      "price": 69.99,
+      "shortDesc": "Lightweight sneakers built for comfort.",
+      "longDesc": "These running sneakers are engineered with cushioned insoles and breathable mesh material to support your feet through intense workouts or everyday walking. Their lightweight frame and flexible design ensure comfort and style throughout the day."
+    },
+    {
+      "id": 9,
+      "productName": "Beige Chinos",
+      "img": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "price": 44.99,
+      "shortDesc": "Soft-fit chinos for a smart casual look.",
+      "longDesc": "These beige chinos offer a smooth, tailored fit made from comfortable stretch fabric. Perfect for office wear, evening outings, and casual styling, they bring a refined yet relaxed vibe to your everyday wardrobe."
+    },
+    {
+      "id": 10,
+      "productName": "Graphic Oversized Tee",
+      "img": "https://images.unsplash.com/photo-1503342394128-c104d54dba01",
+      "price": 29.99,
+      "shortDesc": "Oversized tee with modern graphic print.",
+      "longDesc": "Featuring bold artwork and a relaxed oversized cut, this graphic tee adds personality to any outfit. Its soft cotton build ensures comfort while giving you a trendy, street-inspired aesthetic suitable for daily wear."
+    },
+    {
+      "id": 11,
+      "productName": "Woolen Beanie",
+      "img": "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+      "price": 14.99,
+      "shortDesc": "Warm knitted beanie for winter days.",
+      "longDesc": "This soft woolen beanie keeps you warm while adding a stylish edge to your cold-weather outfits. Its stretchy material provides a snug yet comfortable fit that pairs perfectly with hoodies, jackets, and winter coats."
+    },
+    {
+      "id": 12,
+      "productName": "Classic Black Sneakers",
+      "img": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f",
+      "price": 59.99,
+      "shortDesc": "Minimal black sneakers for daily wear.",
+      "longDesc": "These classic black sneakers offer a clean, versatile look that matches any style. Built with a cushioned sole and flexible materials, they provide exceptional comfort for long days while maintaining a sleek, modern design."
+    }
+  ]
+}

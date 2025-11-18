@@ -9,7 +9,7 @@ body{
   overflow-x: hidden;
 }
 
-p{
+.para{
     color: #6a7282;
 }
 a.active p{

@@ -14,7 +14,7 @@ const NewArrivalsSection = () => {
           </h2>
           <button
             onClick={() => {
-              navigate("/NewArrivalsSection");
+              navigate("/NewArrivals");
             }}
             className="border-2 text-[10px] md:text-[15px] px-1 md:px-3 rounded-full cursor-pointer "
           >
