@@ -96,5 +96,302 @@
       "shortDesc": "Minimal black sneakers for daily wear.",
       "longDesc": "These classic black sneakers offer a clean, versatile look that matches any style. Built with a cushioned sole and flexible materials, they provide exceptional comfort for long days while maintaining a sleek, modern design."
     }
+  ],
+  "topWomensCollection": [
+    {
+      "id": 1,
+      "productName": "Floral Summer Dress",
+      "img": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+      "price": 45.99,
+      "shortDesc": "A breezy floral dress perfect for warm summer days.",
+      "longDesc": "This floral summer dress offers a lightweight design, soft-flowing fabric, and a flattering shape that's ideal for brunch dates, beach days, or casual outings. Its elegance and comfort make it a wardrobe favorite."
+    },
+    {
+      "id": 2,
+      "productName": "Beige Knit Sweater",
+      "img": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246",
+      "price": 39.99,
+      "shortDesc": "A soft beige sweater perfect for cozy weather.",
+      "longDesc": "Crafted with premium knit fabric, this beige sweater offers unmatched warmth and comfort. Its neutral tone makes it perfect for layering throughout fall and winter."
+    },
+    {
+      "id": 3,
+      "productName": "High-Waisted Jeans",
+      "img": "https://images.unsplash.com/photo-1514996937319-344454492b37",
+      "price": 54.99,
+      "shortDesc": "Stylish high-waisted jeans with a stretchy fit.",
+      "longDesc": "These jeans combine premium denim with flexible comfort, offering a contouring fit that enhances your silhouette. Perfect for casual and semi-casual outfits."
+    },
+    {
+      "id": 4,
+      "productName": "Black Leather Jacket",
+      "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9",
+      "price": 89.99,
+      "shortDesc": "A classic black leather jacket with timeless appeal.",
+      "longDesc": "Featuring durable leather, sleek zippers, and a fitted cut, this jacket adds edge to any outfit. Perfect for nights out or stylish layering."
+    },
+    {
+      "id": 5,
+      "productName": "Red Satin Blouse",
+      "img": "https://images.unsplash.com/photo-1514996937319-344454492b37",
+      "price": 34.99,
+      "shortDesc": "A silky satin blouse for elegant occasions.",
+      "longDesc": "This satin blouse features a soft sheen and luxurious feel, offering refined style for events, office wear, or evenings out."
+    },
+    {
+      "id": 6,
+      "productName": "Classic Blue Denim Jacket",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "price": 59.99,
+      "shortDesc": "A versatile blue denim jacket for any outfit.",
+      "longDesc": "Made with durable denim, this jacket is perfect for layering and elevating everyday outfits with timeless appeal."
+    },
+    {
+      "id": 7,
+      "productName": "Pleated Midi Skirt",
+      "img": "https://images.unsplash.com/photo-1544441893-675973e31985",
+      "price": 42.99,
+      "shortDesc": "A flowing pleated skirt for elegant movement.",
+      "longDesc": "This midi skirt features soft pleats, comfortable waist support, and a flattering silhouette suitable for work or casual wear."
+    },
+    {
+      "id": 8,
+      "productName": "White Linen Shirt",
+      "img": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+      "price": 29.99,
+      "shortDesc": "A breathable white linen shirt for warm days.",
+      "longDesc": "Designed with lightweight linen, this shirt keeps you cool while offering clean, effortless style."
+    },
+    {
+      "id": 9,
+      "productName": "Grey Cardigan",
+      "img": "https://images.unsplash.com/photo-1544441893-675973e31985",
+      "price": 31.99,
+      "shortDesc": "A soft grey cardigan for layering anytime.",
+      "longDesc": "Comfortable and versatile, this cardigan offers a relaxed fit perfect for office environments and casual outings."
+    },
+    {
+      "id": 10,
+      "productName": "Athletic Leggings",
+
+      "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "price": 28.99,
+      "shortDesc": "Stretchy high-performance leggings.",
+      "longDesc": "These leggings provide breathable comfort, flexibility, and durability—ideal for workouts, yoga, or daily wear."
+    },
+    {
+      "id": 11,
+      "productName": "Winter Puffer Jacket",
+      "img": "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+      "price": 74.99,
+      "shortDesc": "A warm and stylish puffer jacket.",
+      "longDesc": "Featuring insulated padding and water-resistant material, this puffer jacket ensures warmth and comfort in cold seasons."
+    },
+    {
+      "id": 12,
+      "productName": "Black Palazzo Pants",
+      "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+      "price": 38.99,
+      "shortDesc": "Wide-leg palazzo pants with a sleek design.",
+      "longDesc": "These flowing pants offer comfort and sophistication, making them perfect for both office wear and relaxed outings."
+    }
+  ],
+  "topMensCollection": [
+    {
+      "id": 1,
+      "productName": "Classic White T-Shirt",
+      "img": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b",
+      "price": 19.99,
+      "shortDesc": "A timeless white tee for everyday wear.",
+      "longDesc": "Made from soft cotton, this T-shirt offers breathability and comfort, perfect for casual or layered outfits."
+    },
+    {
+      "id": 2,
+      "productName": "Denim Jacket",
+      "img": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+      "price": 59.99,
+      "shortDesc": "A rugged denim jacket with a modern fit.",
+      "longDesc": "This jacket features durable stitching and a classic design, suitable for all seasons and outfits."
+    },
+    {
+      "id": 3,
+      "productName": "Slim-Fit Chinos",
+      "img": "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6",
+      "price": 49.99,
+      "shortDesc": "Comfortable chinos ideal for smart-casual looks.",
+      "longDesc": "Crafted with stretchable material, these chinos offer style and comfort for work or daily wear."
+    },
+    {
+      "id": 4,
+      "productName": "Black Hoodie",
+      "img": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D",
+      "price": 39.99,
+      "shortDesc": "A warm everyday black hoodie.",
+      "longDesc": "This hoodie includes a fleece interior and minimalist design, perfect for workouts or lounging."
+    },
+    {
+      "id": 5,
+      "productName": "Formal Navy Blazer",
+      "img": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+      "price": 89.99,
+      "shortDesc": "A sharp navy blazer for formal occasions.",
+      "longDesc": "Featuring premium fabric and a tailored fit, this blazer enhances any business or evening look."
+    },
+    {
+      "id": 6,
+      "productName": "Casual Plaid Shirt",
+      "img": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 32.99,
+      "shortDesc": "A stylish plaid shirt for casual days.",
+      "longDesc": "This soft cotton shirt offers comfortable wear with a classic plaid pattern that never goes out of style."
+    },
+    {
+      "id": 7,
+      "productName": "Leather Boots",
+      "img": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 69.99,
+      "shortDesc": "Durable leather boots suitable for any season.",
+      "longDesc": "Designed with premium leather and strong soles, these boots offer style and long-lasting comfort."
+    },
+    {
+      "id": 8,
+      "productName": "Grey Sweatpants",
+      "img": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "price": 29.99,
+      "shortDesc": "Comfortable sweatpants perfect for lounging.",
+      "longDesc": "Soft and breathable, these sweatpants are ideal for workouts or relaxing at home."
+    },
+    {
+      "id": 9,
+      "productName": "Sports Jacket",
+      "img": "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZSUyMGplYW5zfGVufDB8fDB8fHww",
+      "price": 64.99,
+      "shortDesc": "A lightweight jacket for outdoor activity.",
+      "longDesc": "Featuring water-resistant fabric and flexible fit, it's great for running or daily use."
+    },
+    {
+      "id": 10,
+      "productName": "Black Jeans",
+      "img": "https://images.unsplash.com/photo-1472417583565-62e7bdeda490",
+      "price": 52.99,
+      "shortDesc": "Versatile black jeans for daily wear.",
+      "longDesc": "These jeans combine durability with comfort, perfect for casual and semi-formal outfits."
+    },
+    {
+      "id": 11,
+      "productName": "Polished Dress Shoes",
+      "img": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGVuaW0lMjBqYWNrZXR8ZW58MHx8MHx8fDA%3D",
+      "price": 74.99,
+      "shortDesc": "Elegant shoes for formal events.",
+      "longDesc": "Made with premium leather, these dress shoes bring sophistication and comfort to formal attire."
+    },
+    {
+      "id": 12,
+      "productName": "White Hoodie",
+      "img": "https://images.unsplash.com/photo-1722310752951-4d459d28c678?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2xhc3N5JTIwd2hpdGUlMjB0c2hpcnR8ZW58MHx8MHx8fDA%3D",
+      "price": 37.99,
+      "shortDesc": "A clean and stylish white hoodie.",
+      "longDesc": "Featuring soft cotton fleece, this hoodie is perfect for layering and everyday comfort."
+    }
+  ],
+  "topKidsCollection": [
+    {
+      "id": 1,
+      "productName": "Colorful Graphic T-Shirt",
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "price": 14.99,
+      "shortDesc": "A bright graphic tee for playful kids.",
+      "longDesc": "Made with soft and breathable cotton, this T-shirt offers vibrant colors and fun designs perfect for all-day play."
+    },
+    {
+      "id": 2,
+      "productName": "Denim Overalls",
+      "img": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "price": 29.99,
+      "shortDesc": "Durable denim overalls built for active kids.",
+      "longDesc": "Featuring adjustable straps and sturdy denim, these overalls are comfortable and perfect for energetic play."
+    },
+    {
+      "id": 3,
+      "productName": "Kids Hoodie",
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "price": 24.99,
+      "shortDesc": "A soft hoodie for warmth and comfort.",
+      "longDesc": "This hoodie provides warmth with breathable fabric, making it perfect for school or outdoor fun."
+    },
+    {
+      "id": 4,
+      "productName": "Striped Shorts",
+      "img": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format&fit=crop&q=60",
+      "price": 17.99,
+      "shortDesc": "Light and comfortable striped shorts.",
+      "longDesc": "Made with stretchy material and an elastic waistband, these shorts keep kids comfortable throughout the day."
+    },
+    {
+      "id": 5,
+      "productName": "Kids Raincoat",
+      "img": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=500&auto=format&fit=crop&q=60",
+      "price": 27.99,
+      "shortDesc": "A waterproof raincoat for rainy days.",
+      "longDesc": "Bright, lightweight, and waterproof, this raincoat keeps kids dry and comfortable outdoors."
+    },
+    {
+      "id": 6,
+      "productName": "Cartoon Pajama Set",
+      "img": "https://images.unsplash.com/photo-1754555009601-498e9873197e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEhpZ2gtV2Fpc3RlZCUyMEplYW5zfGVufDB8fDB8fHww",
+      "price": 21.99,
+      "shortDesc": "Soft pajamas with cute cartoon prints.",
+      "longDesc": "Made from soft cotton, this pajama set ensures a restful sleep with fun and colorful prints kids love."
+    },
+    {
+      "id": 7,
+      "productName": "Kids Sneakers",
+      "img": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "price": 34.99,
+      "shortDesc": "Comfortable everyday sneakers for kids.",
+      "longDesc": "These sneakers offer strong grip, cushioned support, and durability, perfect for school or playtime."
+    },
+    {
+      "id": 8,
+      "productName": "Printed Dress",
+      "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+      "price": 22.99,
+      "shortDesc": "A cute printed dress for young girls.",
+      "longDesc": "Featuring soft fabric and adorable patterns, this dress is ideal for parties, outings, or casual wear."
+    },
+    {
+      "id": 9,
+      "productName": "Kids Joggers",
+      "img": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=500&auto=format&fit=crop&q=60",
+      "price": 19.99,
+      "shortDesc": "Lightweight joggers perfect for play.",
+      "longDesc": "Designed with breathable fabric and elastic fit, these joggers offer comfort during active play."
+    },
+    {
+      "id": 10,
+      "productName": "Knitted Beanie",
+      "img": "https://images.unsplash.com/photo-1519682337058-a94d519337bc",
+      "price": 9.99,
+      "shortDesc": "A warm knitted beanie for cold days.",
+      "longDesc": "Soft and stretchable, this beanie keeps kids warm while adding a cute, cozy touch to their outfits."
+    },
+    {
+      "id": 11,
+      "productName": "Kids Winter Coat",
+      "img": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format&fit=crop&q=60",
+      "price": 49.99,
+      "shortDesc": "A thick coat designed for winter warmth.",
+      "longDesc": "Featuring insulated layers and a soft interior, this coat keeps kids toasty in cold weather."
+    },
+    {
+      "id": 12,
+      "productName": "Sports Shorts",
+      "img": "https://images.unsplash.com/photo-1519741497674-611481863552",
+      "price": 16.99,
+      "shortDesc": "Breathable shorts for sports activities.",
+      "longDesc": "These athletic shorts offer flexibility, airflow, and comfort—perfect for PE classes and outdoor games."
+    }
   ]
 }
+
+

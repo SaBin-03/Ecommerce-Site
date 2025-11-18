@@ -2,6 +2,7 @@ import React from "react";
 import Marquee from "../constants/Marquee";
 import Herosection from "../section/Herosection";
 import NewArrivalsSection from "../section/NewArrivalsSection";
+import TopMensAndKids from "../section/TopMensAndKids";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <Marquee />
       </div>
       <NewArrivalsSection />
+      <TopMensAndKids />
     </div>
   );
 };

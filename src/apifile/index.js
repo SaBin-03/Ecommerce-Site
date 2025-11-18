@@ -51,3 +51,56 @@ export const topWomensCollection = [
     price: 89.99,
   },
 ]
+export const topMensCollection = [
+  {
+    id: 1,
+    productName: "Classic White T-Shirt",
+    img: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format&fit=crop&q=60",
+    price: 19.99,
+  },
+  {
+    id: 2,
+    productName: "Denim Jacket",
+    img: "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=500&auto=format&fit=crop&q=60",
+    price: 59.99,
+  },
+  {
+    id: 3,
+    productName: "Slim-Fit Chinos",
+    img: "https://images.unsplash.com/photo-1516251193007-45ef944ab0c6?w=500&auto=format&fit=crop&q=60",
+    price: 49.99,
+  },
+  {
+    id: 4,
+    productName: "Black Hoodie",
+    img: "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=500&auto=format&fit=crop&q=60",
+    price: 39.99,
+  },
+];
+export const topKidsCollection = [
+  {
+    id: 1,
+    productName: "Colorful Graphic T-Shirt",
+    img: "https://images.unsplash.com/photo-1754555009601-498e9873197e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEhpZ2gtV2Fpc3RlZCUyMEplYW5zfGVufDB8fDB8fHww",
+    price: 14.99,
+  },
+  {
+    id: 2,
+    productName: "Denim Overalls",
+    img: "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=500&auto=format&fit=crop&q=60",
+    price: 29.99,
+  },
+  {
+    id: 3,
+    productName: "Kids Hoodie",
+    img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=60",
+    price: 24.99,
+  },
+  {
+    id: 4,
+    productName: "Striped Shorts",
+    img: "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?w=500&auto=format&fit=crop&q=60",
+    price: 17.99,
+  },
+];
+

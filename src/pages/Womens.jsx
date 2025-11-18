@@ -1,8 +1,11 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom'
 
 const Womens = () => {
   return (
-    <div>Womens</div>
+    <div>
+      <Outlet />
+    </div>
   )
 }
 

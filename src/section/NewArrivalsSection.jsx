@@ -25,7 +25,7 @@ const NewArrivalsSection = () => {
           {newarrivalsProduct.map((elem) => (
             <div className="h-full md:h-[80%]  p-2 flex justify-center items-center flex-col cursor-pointer">
               <div className="h-full md:h-1/2 w-full  rounded-2xl overflow-hidden">
-                <img
+                <img  
                   className="h-full w-full object-cover"
                   src={elem.img}
                   alt=""
